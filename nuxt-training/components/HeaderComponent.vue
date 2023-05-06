@@ -14,4 +14,5 @@
 const clickAlert:any = ()=>{
     alert('this is warking')
 }
+
 </script>
