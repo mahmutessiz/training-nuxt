@@ -1,12 +1,5 @@
 <template>
-    <div>
-<HeaderComponent />
-<ul>
-    <li>home</li>
-    <li><NuxtLink to="/products">products</NuxtLink></li>
-    <li @click="$router.push('/products/pushdeneme')">id</li>
-</ul>
-    </div>
+<h1>This is home</h1>
 </template>
 
 <script setup lang="ts">
