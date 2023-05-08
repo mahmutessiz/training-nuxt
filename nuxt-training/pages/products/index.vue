@@ -1,5 +1,3 @@
 <template>
-    <div>
-        product index here!
-    </div>
+    <div>product index here!</div>
 </template>
